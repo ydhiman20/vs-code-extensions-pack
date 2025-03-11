@@ -33,6 +33,8 @@ code --install-extension seatonjiang.gitmoji-vscode ^
 --install-extension wix.vscode-import-cost ^
 --install-extension xabikos.javascriptsnippets ^
 --install-extension yzhang.markdown-all-in-one ^
---install-extension ziyasal.vscode-open-in-github
+--install-extension ziyasal.vscode-open-in-github ^
+--install-extension ChakrounAnas.turbo-console-log
+
 
 echo Installation complete.
